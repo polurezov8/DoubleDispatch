@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BE0C4DA7249699BA007DA9D0 /* DoubleDispatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DoubleDispatch.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BE0C4DA0249699A8007DA9D0 = {
+			isa = PBXGroup;
+			children = (
+				BE0C4DA7249699BA007DA9D0 /* DoubleDispatch.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		BE0C4DA1249699A8007DA9D0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1150;
+			};
+			buildConfigurationList = BE0C4DA4249699A8007DA9D0 /* Build configuration list for PBXProject "DoubleDispatch" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BE0C4DA0249699A8007DA9D0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BE0C4DA5249699A8007DA9D0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		BE0C4DA6249699A8007DA9D0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BE0C4DA4249699A8007DA9D0 /* Build configuration list for PBXProject "DoubleDispatch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE0C4DA5249699A8007DA9D0 /* Debug */,
+				BE0C4DA6249699A8007DA9D0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BE0C4DA1249699A8007DA9D0 /* Project object */;
+}
